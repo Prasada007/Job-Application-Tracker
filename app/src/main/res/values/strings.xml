@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Job Applicaation Tracker</string>
+    <string name="logo">logo</string>
+    <string name="profile_icon">profile_icon</string>
+    <string name="explore_jobs_icon">explore jobs icon</string>
+    <string name="internship_opening_icon">internship logo</string>
+    <string name="hiring_challenge_icon">hiring challange</string>
+    <string name="post_job_icon">post job icon\n</string>
+    <string name="software_dev_icon">software development icon</string>
+    <string name="data_science_icon">data science icon</string>
 </resources>
