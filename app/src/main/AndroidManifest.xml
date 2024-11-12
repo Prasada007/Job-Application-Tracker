@@ -13,6 +13,27 @@
         android:theme="@style/Theme.JobApplicaationTracker"
         tools:targetApi="31">
         <activity
+            android:name=".AddJobActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AppliedJobTrackerViewModel"
+            android:exported="false" />
+        <activity
+            android:name=".JobAdapter"
+            android:exported="false" />
+        <activity
+            android:name=".ItemJobActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ItemJobApplicationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BottomNavMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".SignUp"
             android:exported="false" />
         <activity
@@ -29,7 +50,7 @@
         </activity>
         <activity
             android:name=".SignupActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".SigninActivity"
             android:exported="false" />

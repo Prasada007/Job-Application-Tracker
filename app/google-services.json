@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100305424919",
+    "project_id": "job-application-tracker-dc924",
+    "storage_bucket": "job-application-tracker-dc924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100305424919:android:0e012e4b72dd307d060252",
+        "android_client_info": {
+          "package_name": "com.example.jobapplicaationtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtf7X_KEjqS479qtq_G8mDGJccAu3eKfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
